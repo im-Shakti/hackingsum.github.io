@@ -29,7 +29,7 @@ $(function() {
   
   
     // Contact Text Animate
-    const sentences = ["Hackingsum.Org.In", "Codewire.in"];
+    const sentences = ["Hackingsum", "Codewire.in"];
     let i = 0;
   
     setInterval(function() {
